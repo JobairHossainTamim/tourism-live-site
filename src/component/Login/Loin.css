@@ -1,0 +1,19 @@
+.login-part{
+    padding-top: 80px;
+    display:flex;
+    align-items:center;
+    justify-content:center;
+}
+.login-card{
+    display:flex;
+    align-items:center;
+    justify-content:center;
+}
+.login-card button{
+    width:50%;
+    margin-bottom: 10px;
+}
+.login-card img{
+    height:350px;
+    width: 50%;
+}
